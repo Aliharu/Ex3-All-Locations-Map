@@ -9,7 +9,7 @@ Golden Calibration is a redone solar charmset for Exalted Third edition, this Fo
 
 ## Installation
 
-Installation is available directly through Foundry VTT via the Manifest URL (explained in [Foundry Wiki](https://foundryvtt.wiki/en/basics/Modules)). The Manifest URL you should use is: https://raw.githubusercontent.com/Aliharu/Ex3-Golden-Calibration/master/module.json
+Installation is available directly through Foundry VTT via the Manifest URL (explained in [Foundry Wiki](https://foundryvtt.wiki/en/basics/Modules)). The Manifest URL you should use is: https://raw.githubusercontent.com/Aliharu/Ex3-All-Locations-Map/master/module.json
 
 ## Copyright
 This module are covered under the Dark Pack license.  No book text is used only page references and the map was custom made in Wonderdraft by me.
