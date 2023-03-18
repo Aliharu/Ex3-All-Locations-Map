@@ -3,7 +3,7 @@
     "name": "ex3-all-locations-map",
     "title": "Exalted Third Edition All Locations Map",
     "description": "A linked map with journal entries linking to book page numbers",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minimumCoreVersion": "10",
     "compatibleCoreVersion": "10",
     "compatibility": {
@@ -15,7 +15,7 @@
     "author": "Aliharu",
     "url": "https://github.com/Aliharu/Ex3-All-Locations-Map",
     "manifest": "https://raw.githubusercontent.com/Aliharu/Ex3-All-Locations-Map/master/module.json",
-    "download": "https://github.com/Aliharu/Ex3-All-Locations-Map/archive/v1.0.0.zip",
+    "download": "https://github.com/Aliharu/Ex3-All-Locations-Map/archive/v1.0.1.zip",
     "bugs": "https://github.com/Aliharu/Ex3-All-Locations-Map/issues",
     "readme": "https://github.com/Aliharu/Ex3-All-Locations-Map/blob/main/README.md",
     "packs": [
